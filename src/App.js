@@ -1,8 +1,9 @@
+import JobPortal from "./Components/JobPortal";
 
 function App() {
   return (
    <>
-   <h1>Hello!</h1>
+   <JobPortal />
    </>
   );
 }
